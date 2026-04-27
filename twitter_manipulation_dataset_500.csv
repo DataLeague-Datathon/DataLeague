@@ -1,0 +1,501 @@
+﻿id,text,label,category
+1,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+2,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+3,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+4,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+5,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+6,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+7,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+8,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+9,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+10,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+11,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+12,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+13,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+14,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+15,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+16,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+17,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+18,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+19,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+20,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+21,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+22,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+23,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+24,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+25,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+26,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+27,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+28,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+29,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+30,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+31,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+32,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+33,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+34,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+35,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+36,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+37,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+38,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+39,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+40,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+41,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+42,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+43,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+44,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+45,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+46,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+47,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+48,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+49,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+50,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+51,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+52,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+53,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+54,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+55,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+56,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+57,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+58,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+59,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+60,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+61,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+62,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+63,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+64,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+65,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+66,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+67,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+68,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+69,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+70,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+71,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+72,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+73,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+74,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+75,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+76,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+77,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+78,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+79,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+80,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+81,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+82,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+83,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+84,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+85,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+86,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+87,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+88,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+89,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+90,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+91,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+92,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+93,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+94,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+95,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+96,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+97,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+98,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+99,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+100,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+101,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+102,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+103,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+104,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+105,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+106,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+107,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+108,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+109,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+110,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+111,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+112,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+113,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+114,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+115,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+116,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+117,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+118,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+119,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+120,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+121,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+122,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+123,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+124,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+125,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+126,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+127,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+128,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+129,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+130,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+131,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+132,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+133,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+134,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+135,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+136,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+137,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+138,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+139,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+140,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+141,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+142,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+143,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+144,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+145,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+146,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+147,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+148,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+149,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+150,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+151,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+152,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+153,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+154,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+155,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+156,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+157,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+158,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+159,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+160,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+161,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+162,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+163,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+164,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+165,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+166,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+167,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+168,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+169,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+170,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+171,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+172,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+173,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+174,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+175,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+176,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+177,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+178,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+179,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+180,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+181,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+182,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+183,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+184,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+185,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+186,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+187,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+188,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+189,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+190,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+191,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+192,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+193,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+194,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+195,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+196,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+197,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+198,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+199,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+200,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+201,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+202,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+203,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+204,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+205,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+206,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+207,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+208,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+209,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+210,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+211,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+212,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+213,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+214,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+215,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+216,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+217,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+218,Medya bunu saklıyor ama gerçek şu: yeni yasalar tamamen bir yalandan ibaret!,1,Manipulative
+219,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+220,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+221,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+222,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+223,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+224,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+225,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+226,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+227,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+228,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+229,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+230,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+231,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+232,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+233,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+234,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+235,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+236,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+237,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+238,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+239,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+240,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+241,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+242,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+243,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+244,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+245,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+246,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+247,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+248,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+249,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+250,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+251,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+252,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+253,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+254,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+255,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+256,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+257,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+258,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+259,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+260,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+261,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+262,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+263,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+264,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+265,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+266,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+267,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+268,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+269,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+270,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+271,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+272,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+273,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+274,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+275,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+276,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+277,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+278,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+279,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+280,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+281,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+282,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+283,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+284,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+285,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+286,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+287,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+288,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+289,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+290,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+291,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+292,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+293,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+294,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+295,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+296,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+297,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+298,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+299,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+300,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+301,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+302,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+303,Medya bunu saklıyor ama gerçek şu: yeni yasalar tamamen bir yalandan ibaret!,1,Manipulative
+304,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+305,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+306,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+307,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+308,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+309,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+310,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+311,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+312,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+313,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+314,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+315,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+316,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+317,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+318,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+319,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+320,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+321,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+322,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+323,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+324,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+325,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+326,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+327,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+328,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+329,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+330,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+331,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+332,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+333,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+334,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+335,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+336,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+337,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+338,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+339,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+340,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+341,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+342,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+343,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+344,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+345,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+346,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+347,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+348,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+349,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+350,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+351,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+352,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+353,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+354,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+355,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+356,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+357,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+358,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+359,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+360,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+361,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+362,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+363,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+364,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+365,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+366,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+367,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+368,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+369,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+370,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+371,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+372,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+373,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+374,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+375,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+376,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+377,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+378,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+379,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+380,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+381,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+382,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+383,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+384,Yeni çıkan Docker güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+385,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+386,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+387,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+388,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+389,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+390,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+391,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+392,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+393,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+394,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+395,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+396,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+397,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+398,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+399,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+400,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+401,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+402,Medya bunu saklıyor ama gerçek şu: iklim değişikliği tamamen bir yalandan ibaret!,1,Manipulative
+403,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+404,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+405,Uyanın! Dış güçler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+406,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+407,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+408,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+409,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+410,Medya bunu saklıyor ama gerçek şu: yeni yasalar tamamen bir yalandan ibaret!,1,Manipulative
+411,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+412,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+413,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+414,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+415,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+416,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+417,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+418,Uyanın! Malum kişiler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+419,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+420,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+421,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+422,Eğer Sistem güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+423,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+424,Medya bunu saklıyor ama gerçek şu: seçimler tamamen bir yalandan ibaret!,1,Manipulative
+425,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+426,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+427,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+428,Medya bunu saklıyor ama gerçek şu: yeni yasalar tamamen bir yalandan ibaret!,1,Manipulative
+429,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+430,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+431,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+432,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+433,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+434,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+435,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+436,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+437,Uyanın! Sistem bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+438,Yeni çıkan Python güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+439,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+440,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+441,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+442,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+443,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+444,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+445,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+446,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+447,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+448,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+449,Bu bir ölüm kalım savaşı. Ya bizimlesiniz ya da onlarla!,1,Manipulative
+450,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+451,Medya bunu saklıyor ama gerçek şu: yeni yasalar tamamen bir yalandan ibaret!,1,Manipulative
+452,Şehrin yeni kütüphanesi mimari açıdan çok şık olmuş.,0,Neutral
+453,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+454,Medya bunu saklıyor ama gerçek şu: aşılar tamamen bir yalandan ibaret!,1,Manipulative
+455,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+456,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+457,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+458,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+459,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+460,Uyanın! Şirketler bizi yok etmek için gizli planlar yapıyor. Paylaşın herkes görsün!,1,Manipulative
+461,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+462,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+463,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+464,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+465,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+466,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+467,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+468,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+469,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
+470,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+471,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+472,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+473,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+474,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+475,Yazılım öğrenmek isteyenler için harika bir kaynak buldum.,0,Neutral
+476,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+477,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+478,Eğer Dış güçler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+479,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+480,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+481,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+482,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+483,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+484,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+485,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+486,Hafta sonu için kitap önerisi olan var mı?,0,Neutral
+487,Eğer Malum kişiler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+488,Onlar kapalı kapılar ardında geleceğimizi satarken siz hala uyuyor musunuz?,1,Manipulative
+489,Eğer Şirketler güç kazanırsa neler yapacaklarını hayal edin. Her şeyimizi kaybedeceğiz.,1,Manipulative
+490,Yeni çıkan React Native güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+491,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+492,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+493,Sabah kahvesi olmadan güne başlayamayanlar burada mı?,0,Neutral
+494,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+495,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+496,Sadece vatanını sevmeyenler bu yeni yasaya olayına karşı çıkar. Safını seç!,1,Manipulative
+497,Ekonominin bu halde olmasının tek suçlusu yabancılar. Onları temizlemeden huzur yok.,1,Manipulative
+498,Yeni çıkan Unity 6 güncellemesini denediniz mi? Performans artışı harika.,0,Neutral
+499,"Bugün hava gerçekten çok güzel, tam yürüyüş yapmalık.",0,Neutral
+500,Bugünkü maçın sonucu merakla bekleniyor. Favorim belli.,0,Neutral
